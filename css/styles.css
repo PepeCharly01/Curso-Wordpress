@@ -43,7 +43,6 @@ header {
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    left: 0;
     display: flex;
     width: 100%;
     color: #fff;
@@ -59,7 +58,6 @@ header {
 }
 
 #hero .informacion-contenedor .informacion {
-    margin-top: 25px;
     margin-left: 25px;
     font-weight: bold;
     width: calc(100% - 150px);
